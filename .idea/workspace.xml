@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a678a916-44cd-42de-a97f-e2580821102b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Derive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FillMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FutureDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaddlePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec_Bin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,37 +55,37 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Time">
-    <configuration name="FillMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FillMatrix" />
+  <component name="RunManager" selected="Application.Mix">
+    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FutureDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FutureDate" />
+    <configuration name="Dec_Bin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec_Bin" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaddlePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaddlePoint" />
+    <configuration name="Mix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mix" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Time" />
+    <configuration name="SquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareMatrix" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Time" />
-        <item itemvalue="Application.FutureDate" />
-        <item itemvalue="Application.SaddlePoint" />
-        <item itemvalue="Application.FillMatrix" />
-        <item itemvalue="Application.StringManipulation" />
+        <item itemvalue="Application.Mix" />
+        <item itemvalue="Application.SquareMatrix" />
+        <item itemvalue="Application.Dec_Bin" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.Collection" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665753965575</updated>
-      <workItem from="1665753967859" duration="5053000" />
+      <workItem from="1665753967859" duration="6924000" />
     </task>
     <servers />
   </component>
