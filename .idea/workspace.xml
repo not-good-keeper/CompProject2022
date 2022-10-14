@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a678a916-44cd-42de-a97f-e2580821102b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompProject2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FascinatingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmithNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwinPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalVol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rot13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Slope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeamNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +46,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Parentheses">
-    <configuration name="FascinatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FascinatingNumber" />
+  <component name="RunManager" selected="Application.CalVol">
+    <configuration name="CalVol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalVol" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,15 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmithNumber" />
+    <configuration name="Rot13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rot13" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwinPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwinPrimes" />
+    <configuration name="Slope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Slope" />
+      <module name="CompProject2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TeamNames" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,10 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalVol" />
+        <item itemvalue="Application.Slope" />
+        <item itemvalue="Application.TeamNames" />
+        <item itemvalue="Application.Rot13" />
         <item itemvalue="Application.Parentheses" />
-        <item itemvalue="Application.TwinPrimes" />
-        <item itemvalue="Application.FascinatingNumber" />
-        <item itemvalue="Application.SmithNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665753965575</updated>
-      <workItem from="1665753967859" duration="1338000" />
+      <workItem from="1665753967859" duration="2630000" />
     </task>
     <servers />
   </component>
