@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a678a916-44cd-42de-a97f-e2580821102b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dec_Bin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquareMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordPile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,16 +54,16 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Mix">
-    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection" />
+  <component name="RunManager" selected="Application.CQueue">
+    <configuration name="CQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CQueue" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dec_Bin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dec_Bin" />
+    <configuration name="Link" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Link" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,15 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort" />
+    <configuration name="Notice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Notice" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareMatrix" />
+    <configuration name="WordPile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordPile" />
       <module name="CompProject2022" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CQueue" />
+        <item itemvalue="Application.Notice" />
+        <item itemvalue="Application.Link" />
+        <item itemvalue="Application.WordPile" />
         <item itemvalue="Application.Mix" />
-        <item itemvalue="Application.SquareMatrix" />
-        <item itemvalue="Application.Dec_Bin" />
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.Collection" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665753965575</updated>
-      <workItem from="1665753967859" duration="6924000" />
+      <workItem from="1665753967859" duration="9087000" />
     </task>
     <servers />
   </component>
