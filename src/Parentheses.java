@@ -2,6 +2,17 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 // PROGRAM 4
+
+/*
+Algorithm:
+1. Start
+2. Input a string
+3. Convert it to uppercase
+4. If the string has brackets within brackets, print invalid string and skip to step 7
+5. Convert the string to words
+6. Print all the words that are not surrounded by brackets
+7. End
+ */
 public class Parentheses {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

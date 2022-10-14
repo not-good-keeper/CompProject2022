@@ -1,6 +1,17 @@
 import java.util.Scanner;
 
 // PROGRAM 2
+
+/*
+Algorithm:
+1. Start
+2. Input a number
+3. Concatenate the number, 2 * number and 3 * number
+4. Check if the concatenated number has all digits 1 through 9
+5. If yes, then print that number is a fascinating number
+6. Else print that number is not a fascinating number
+7. End
+ */
 public class FascinatingNumber {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

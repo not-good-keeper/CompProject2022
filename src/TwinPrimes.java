@@ -1,6 +1,17 @@
 import java.util.Scanner;
 
 // PROGRAM 3
+
+/*
+Algorithm:
+1. Start
+2. Input a number
+3. Iterate from the number to 0 and find a number whose predecessor and successor are primes
+4. Iterate from the number to infinity and find a number whose predecessor and successor are primes
+5. Get the closer number of the two
+6. Print the number's predecessor and successor
+7. End
+ */
 public class TwinPrimes {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
