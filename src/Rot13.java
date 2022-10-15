@@ -3,6 +3,37 @@ import java.util.Scanner;
 // PROGRAM 5
 
 /*
+Question 5
+Caesar Cipher is an encryption technique which is implemented as ROT 13(Rotate by 13 place). It is simple letter substitution cipher that replaces a letter with the letter 13 places after it in the alphabets, with the other characters remaining unchanged.
+
+                                           ROT 13
+
+A/a	B/b	C/c	D/d	E/e	F/f	G/g	H/h	I/i	J/j	K/k	L/l	M/m
+↕	↕	↕	↕	↕	↕	↕	↕	↕	↕	↕	↕	↕
+N/n	O/o	P/p	Q/q	R/r	S/s	T/t	U/u	V/v	W/w	X/x	Y/y	Z/z
+
+
+Write a program to accept a plain text of length L, where L must be greater than 3 and less than 100.
+Encrypt the text if valid as per the Caesar Cipher. 
+Test your program with the sample data and some random data:
+
+Example 1:
+ Input:         Hello! How are you?
+Output:         The cipher text is:
+                Uryyb! Ubj ner Ibh?
+
+Example 2:
+Input:           Encryption helps to secure data.
+Output:          The cipher text is:
+                 Rapelegvba urycf gb frpher gngn.
+
+Example 3
+
+Input:          Yes
+Output:         Invalid Length
+
+
+
 Algorithm:
 1. Start
 2. Input a string
